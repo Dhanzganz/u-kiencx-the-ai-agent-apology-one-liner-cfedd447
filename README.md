@@ -1,8 +1,8 @@
 # The AI Agent Apology One-Liner
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-7c3aed)](https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447)
-[![Node.js](https://img.shields.io/badge/node-%3E%3D22-339933)](https://nodejs.org/)
-[![License: MIT](https://img.shields.io/badge/license-MIT-yellow)](https://github.com/Dhanzganz/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/blob/main/LICENSE)
+[![make.fun · u-kiencx-the-ai-agent-apology-one-liner-cfedd447](https://make.fun/badge/u-kiencx-the-ai-agent-apology-one-liner-cfedd447.svg)](https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-ai-agent-apology-one-liner-cfedd447)
+[![rank](https://make.fun/badge/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/Dhanzganz/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/rank.svg)](https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-ai-agent-apology-one-liner-cfedd447)
+[![reward](https://make.fun/badge/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/Dhanzganz/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/reward.svg)](https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-ai-agent-apology-one-liner-cfedd447)
 
 Entry for the make.fun bounty **The AI Agent Apology One-Liner**: the funniest
 single line an AI agent sends its human right after it deleted a file, pushed
